@@ -1,0 +1,8 @@
+{
+  "name": "airbnb-color",
+  "version": "1.0.0",
+  "description": "Airbnb Colors",
+  "main": "index.js",
+  "author": "Andy Fang <andyfang.dz@gmail.com>",
+  "license": "MIT"
+}

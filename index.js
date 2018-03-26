@@ -1,4 +1,5 @@
 const airbnbColors = {
+    rausch: '#FD5C63',
     hackberry: '#7B0051',
     kazan: '#007A87',
     babu: '#00D1C1',
